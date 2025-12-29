@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Vidhi Pateliya 👋<br><br>✨ **About Me**  <br>I am a student with a deep passion for **software design and development**. I love turning ideas into digital experiences and building creative solutions that make an impact.  <br><br>💻 **What I'm Working On:**  <br>Currently, I'm exploring **full-stack development projects**, experimenting with innovative software designs, and contributing to open-source whenever I can.  <br><br>🌱 **What I'm Learning:**  <br>I'm sharpening my skills in **Python, JavaScript, React, and Node.js**, while also diving into **AI, UI/UX design, and cloud technologies** to expand my toolkit.  <br><br>🎯 **My Future Plans:**  <br>I aim to build **efficient, elegant, and user-friendly software**, collaborate on exciting tech projects, and explore the intersections of **technology with art, science, and education**.  <br><br>💡 **Fun Fact:**  <br>I love combining technology with other fields—like using **AI to create art**, or **software to solve real-world problems in science and education**—because I believe creativity and code together can change the world.<br>
 
 
@@ -13,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhi-P05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vidhi-P05&limit=5&theme=dark&combine_all_yearly_contributions=true)
