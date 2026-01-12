@@ -13,6 +13,8 @@ I aspire to work on **AI, Data, and Web-based roles**, where I can contribute to
 
 💡 **Fun Fact**  
 I love blending technology with other fields—using **AI to uncover patterns, data to tell stories, and software to connect ideas across disciplines**.
+Check out my portfolio below.
+[View Portfolio](https://vidhisportfolio.netlify.app)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vidhi-pateliya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vi2312pateliya@gmail.com) 
